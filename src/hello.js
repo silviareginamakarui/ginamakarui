@@ -1,9 +1,9 @@
 function Hello() {
-    recturn (
+    return (
         <div id="root">
 
         </div>
     );
-}
+    }
 
 export default Hello;
